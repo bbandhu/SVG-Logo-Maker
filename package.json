@@ -1,0 +1,30 @@
+{
+  "name": "SVG-Logo-Maker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbandhu/SVG-Logo-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbandhu/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/bbandhu/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  }
+}
