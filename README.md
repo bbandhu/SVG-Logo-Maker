@@ -29,13 +29,19 @@
   ## License 
     this project is licensed under MIT License
 
-  ##Features
+  #Features
    
   It generates the logo based on user input for different shapes, color, text which saves lot of time in  designing 
 
-  ##Tests
+  #Tests
 
   The tests/ folder of this repository contains the source code and Jest tests for triange , circle. To run the tests , use the command npm test
+
+  #Screenshots
+
+  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/assests/Screenshot%202023-04-16%20at%2010.57.38%20PM.png)
+
+
 
 
 
