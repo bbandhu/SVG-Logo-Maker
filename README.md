@@ -40,11 +40,11 @@
 
   #Screenshots
 
-  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/examples/circle.svg)
+  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/assests/circle.png)
   
-  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/examples/triangle.svg)
+  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/assests/triangle.png)
 
-  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/examples/rectangle.svg)
+  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/assests/rectangle.png)
 
 
 
