@@ -3,6 +3,9 @@ const fs = require("fs");
 //const shapesObj = ("./lib/shapes.js")
 const { Circle, Rectangle, Triangle } = require("./lib/shapes.js");
 
+
+
+
 //Array of questions prompts user
 const logoQuestions = [
   {
@@ -45,7 +48,7 @@ inquirer
       case "Triangle":
         shape = new Triangle(data.shapeColor, data.text, data.text_color);
         break;
-      default:
+       default:
         throw new Error("Invalid shape choice");
     }
 
