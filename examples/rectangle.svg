@@ -1,4 +1,4 @@
 <svg height="200" width="300">
-      <rect width="300" height="100" fill="green" />
-      <text x="150" y="125" font-size="60px" text-anchor="middle"  fill="white">SVG</text>
+      <rect x="0%" y="30%" width="300" height="100" fill="white" />
+      <text x="150" y="125" font-size="60px" text-anchor="middle"  fill="black">BB</text>
     </svg>

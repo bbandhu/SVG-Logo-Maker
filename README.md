@@ -40,7 +40,9 @@
   #Screenshots
 
   ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/assests/Screenshot%202023-04-16%20at%2010.57.38%20PM.png)
+  
 
+  ![image](https://github.com/bbandhu/SVG-Logo-Maker/blob/main/examples/triangle.svg)
 
 
 
