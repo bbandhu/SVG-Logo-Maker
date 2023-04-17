@@ -20,4 +20,12 @@ describe('shape color',()=>{
 
 
 
+describe('rectangle',()=>{
+
+    it('should render the shape rectangle and set color to green', () => {
+    const shape = new Rectangle();
+    shape.setColor("green");
+    expect(shape.render()).toEqual('<rect x="0%" y="30%" width="300" height="100" fill="green" />', 'Should render green rectangle');
+    });
+})
 
